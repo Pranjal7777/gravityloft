@@ -1,6 +1,6 @@
 
 import logo from "../images/Nextyn.png"
-import Styles from "./Navbar.module.css"
+import Styles from "./Homepage.module.css"
 import search1 from "../images/Search 3.png"
 import consult from "../images/consult.png"
 import miranda from "../images/miranda.png"
@@ -17,7 +17,7 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 // import AddIcon from '@mui/icons-material/ExpandMore';
 
-export const Navbar = () => {
+export const Homepage = () => {
     return <>
 
         <div className={Styles.navbar}>
